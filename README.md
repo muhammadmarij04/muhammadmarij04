@@ -3,9 +3,8 @@
 </div>
 
 <p align="center">
-  <a href="https://linkedin.com/in/bazilubab" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://behance.net/bazilubab" target="_blank"><img src="https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
-  <a href="https://github.com/bazilubab" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/muhammadmoarij" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://github.com/muhammad.moarij04" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
   <a href="mailto:muhammad.marij04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -30,7 +29,7 @@ I believe in continuous improvement, effective time management, and writing clea
     <td width="50%" valign="top">
       <h3>💼 Experience & Exposure</h3>
       <ul>
-        <li><b>Sofex Solutions (2-Month Internship):</b> Greatly enhanced my practical knowledge and professional skills in software development.</li>
+        <li><b>Safex Solutions (2-Month Internship):</b> Greatly enhanced my practical knowledge and professional skills in software development.</li>
         <li><b>iVolve Technologies (Exploration Visit):</b> Gained valuable industry exposure, where I learned about software development workflows, project collaboration, and professional practices.</li>
       </ul>
     </td>
